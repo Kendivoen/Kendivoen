@@ -1,22 +1,45 @@
 # Hi, I'm Kelvin Nosakhare Eguavoen 👋
 
-PhD Researcher in Energy Research at the Indian Institute of Science (IISc), Bangalore, with interests in energy analytics, renewable energy systems, sustainability, machine learning, and the global energy transition.
+PhD Researcher in Energy Research at the Indian Institute of Science (IISc), Bangalore, working at the intersection of renewable energy technologies, photovoltaic materials, energy analytics, machine learning, and sustainability.
 
-## Areas of Interest
+My work spans two complementary areas:
+
+🔬 **Photovoltaic Research** – Lead-free and quasi-2D perovskite solar cells, device engineering, stability enhancement, and photovoltaic characterization.
+
+📊 **Energy Analytics** – Machine learning, forecasting, sustainability analytics, renewable energy modelling, and data-driven insights for the global energy transition.
+
+---
+
+## Research & Professional Interests
+
+### Renewable Energy Materials
+
+* Perovskite Solar Cells
+* Lead-Free Photovoltaics
+* Device Physics
+* Stability Engineering
+* Thin-Film Solar Technologies
+* Photovoltaic Characterization
+
+### Energy Analytics & Sustainability
 
 * Energy Analytics
 * Renewable Energy Systems
 * Sustainability Analytics
 * Machine Learning
+* Time-Series Forecasting
+* Carbon Impact Assessment
 * Energy Transition
-* Data Science for Sustainability
-* Photovoltaic Technologies
+
+---
 
 ## Featured Project
 
 ### ⚡ Energy Analytics Platform
 
-An end-to-end energy analytics project combining:
+An end-to-end energy analytics platform developed to analyse Germany's electricity system using machine learning and sustainability metrics.
+
+**Features**
 
 * Electricity Demand Forecasting
 * Solar Generation Forecasting
@@ -24,22 +47,24 @@ An end-to-end energy analytics project combining:
 * Carbon Impact Assessment
 * Interactive Streamlit Dashboard
 
-🔗 GitHub Repository:
-https://github.com/Kendivoen/energy-analytics-platform
-
-🚀 Live Dashboard:
-https://germany-energy-analytics-platform.streamlit.app/
-
-Key Results:
+**Key Results**
 
 * Demand Forecasting: R² = 0.9953
 * Solar Forecasting: R² = 0.9804
 * Wind Forecasting: R² = 0.9902
 * Renewable CO₂ Avoided: 385.7 Million Tonnes
 
+🔗 Repository:
+https://github.com/Kendivoen/energy-analytics-platform
+
+🚀 Live Dashboard:
+https://germany-energy-analytics-platform.streamlit.app/
+
+---
+
 ## Technical Skills
 
-### Programming & Analytics
+### Programming & Data Science
 
 * Python
 * SQL
@@ -50,27 +75,43 @@ Key Results:
 * Streamlit
 * Git & GitHub
 
-### Energy & Sustainability
+### Research & Engineering
 
-* Energy Systems Analysis
-* Renewable Energy Technologies
-* Sustainability Assessment
+* Experimental Design
+* Scientific Data Analysis
+* Statistical Analysis
+* Machine Learning
 * Time-Series Forecasting
-* Photovoltaic Systems
-* Carbon Impact Analysis
+* Energy Systems Analysis
+* Sustainability Assessment
+
+---
 
 ## Education
 
-* PhD (Energy Research), Indian Institute of Science (2021–2026)
-* M.Tech (Energy Studies), IIT Delhi
-* B.Sc. Industrial Physics, University of Benin
+🎓 PhD (Energy Research)
+Indian Institute of Science (IISc), Bangalore
+
+🎓 M.Tech (Energy Studies)
+Indian Institute of Technology Delhi
+
+🎓 B.Sc. Industrial Physics (First Class Honours)
+University of Benin
+
+---
+
+## Publications & Research
+
+My research focuses on advancing stable and efficient photovoltaic technologies while exploring data-driven approaches for renewable energy systems and sustainability.
+
+---
 
 ## Connect With Me
 
-💼 LinkedIn:
+💼 LinkedIn
 https://www.linkedin.com/in/kelvin-eguavoen
 
-📧 Email:
+📧 Email
 [eguavoenkk@gmail.com](mailto:eguavoenkk@gmail.com)
 
 <!---
